@@ -1,6 +1,5 @@
 <p align="center"><img src="./hero.svg" width="100%" alt="Nazarii Iskov"></p>
 
-### 📊 Stats
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=IsNazarii&show_icons=true&hide_border=true&card_width=495&bg_color=0c0c0c&title_color=ededed&text_color=a1a1a1&icon_color=6b6b6b" alt="GitHub stats">
