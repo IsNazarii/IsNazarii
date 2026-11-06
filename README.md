@@ -3,12 +3,12 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=IsNazarii&show_icons=true&hide_border=true&bg_color=0c0c0c&title_color=ededed&text_color=a1a1a1&icon_color=6b6b6b" alt="GitHub stats">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IsNazarii&layout=compact&hide_border=true&bg_color=0c0c0c&title_color=ededed&text_color=a1a1a1" alt="Top languages">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=IsNazarii&show_icons=true&hide_border=true&card_width=495&bg_color=0c0c0c&title_color=ededed&text_color=a1a1a1&icon_color=6b6b6b" alt="GitHub stats">
+  <img width="49%" src="https://streak-stats.demolab.com?user=IsNazarii&hide_border=true&card_width=495&card_height=195&background=0c0c0c&stroke=3a3a3a&ring=ededed&fire=ededed&currStreakNum=ededed&sideNums=ededed&currStreakLabel=a1a1a1&sideLabels=a1a1a1&dates=6b6b6b" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IsNazarii&hide_border=true&background=0c0c0c&stroke=3a3a3a&ring=ededed&fire=ededed&currStreakNum=ededed&sideNums=ededed&currStreakLabel=a1a1a1&sideLabels=a1a1a1&dates=6b6b6b" alt="GitHub streak">
+  <img width="99%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IsNazarii&layout=compact&hide_border=true&card_width=1000&bg_color=0c0c0c&title_color=ededed&text_color=a1a1a1" alt="Top languages">
 </p>
 
 <p align="center">
