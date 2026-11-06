@@ -1,8 +1,6 @@
 <p align="center"><img src="./hero.svg" width="100%" alt="Nazar Iskov"></p>
 
 
-## Hi there 👋
-
 <!--
 **IsNazarii/IsNazarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
